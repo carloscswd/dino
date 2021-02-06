@@ -1,2 +1,1 @@
-# dino
-jogo do dino
+# jogoDino
